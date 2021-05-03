@@ -2,6 +2,8 @@
 # 2021OSSL_RYAN
 
 
-## 팀프로젝트
+## 팀프로젝트 (mini project)
 
-* 미니 프로젝트
+1. 주제
+
+asfd
